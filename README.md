@@ -1,2 +1,2 @@
 # Duco-Discord-Bot
-This is simple python gamble bot :D
+This is simple python discord gamble bot :D
